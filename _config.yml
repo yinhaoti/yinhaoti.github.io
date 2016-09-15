@@ -3,7 +3,7 @@ title: Haotian Blog
 SEOTitle: 殷昊天的博客 | Haotian Blog
 header-img: img/home-bg.jpg
 email: hautienyin@gmail.com
-description: ""
+description: "__"
 keyword: ""
 url: "http://yinhaoti.github.io"              # your host, for absolute URL
 #baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -52,7 +52,7 @@ kramdown:
 # Duoshuo settings
 duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
