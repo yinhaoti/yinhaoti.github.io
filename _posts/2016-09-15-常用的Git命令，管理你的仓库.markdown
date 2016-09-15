@@ -1,0 +1,41 @@
+---
+layout:     post
+title:      "常用的Git命令，管理你的仓库"
+subtitle:   ""
+date:       2016-09-15
+author:     "Haotian"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Git 
+    - 备忘
+---
+
+以下的命令是我经常使用于修改删除添加到github：
+
+## 提交新的文件
+
+##### 步骤一
+```
+# 添加指定文件
+> git add specificFile.txt
+或者
+# 添加当前目录所有文件 
+> git add .
+```
+
+##### 步骤二
+```
+# 查看当前仓库状态
+> git status
+# 提交当前添加，添加提交信息
+> git commit -m "New update"
+```
+
+##### 步骤三
+```
+# 把当前分支master推送到远程
+> git push
+```
+
+
+	
