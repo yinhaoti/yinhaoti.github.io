@@ -54,15 +54,15 @@ $ jekyll --server //启动工程 本地预览 http:127.0.0.1:4000
 
 * _includes：
 
-  ```
+  
   1) _includes/JB中有一些常用的工具，用于列表显示、评论等；
 
   2) _includes/themes中可参看主题的相关html文档。
 
   3) _includes/themes中的主题一般包含default.html、post.html和page.html三个文档。default.html定义了网站的最上层框架（模板），post.html和page.html是其子框架（模板）。
 
-  4) 生成好的html子页面通过default.html的{{ content }}变量调用，生成整个页面。
-  ```
+  4) 生成好的html子页面通过default.html的 content 变量调用，生成整个页面。
+  
 
 * assets 渲染页面的CSS和JS文档在assets/themes中
 
@@ -81,11 +81,7 @@ $ jekyll --server //启动工程 本地预览 http:127.0.0.1:4000
 * 使用多个 * 或 _ 包裹文本产生 strong 效果
 
 
-
-#### 
-
 ### 本文内容参考于:
-
 [通过GitHub Pages建立个人站点（详细步骤）](http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html"optional title")
 
 
