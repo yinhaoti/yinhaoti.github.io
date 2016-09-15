@@ -1,9 +1,17 @@
 ---
-layout: post
-title:  "First post"
-date:   2016-05-16 09:57:22 +0800
-categories: personal update
+layout:     post
+title:      "First post"
+subtitle:   "Hello World, Hello Blog"
+date:       2016-05-16 09:57:22 +0800
+author:     "Haotian"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
 ---
+
+
+
+
 This is the first page on my blog, and this is also the first time to use markdown language to write down sth for me.
 
 
