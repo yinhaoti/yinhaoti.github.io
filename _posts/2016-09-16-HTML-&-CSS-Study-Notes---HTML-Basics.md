@@ -2,7 +2,7 @@
 layout:     post
 title:      "HTML & CSS Study Notes - HTML Basics"
 subtitle:   ""
-date:       2016-09-16
+date:       2016-09-17
 author:     "Haotian"
 header-img: "img/post-bg-2015.jpg"
 tags:
@@ -152,5 +152,37 @@ Example:
 
 
 
+### 2.1 Build Your Own Webpage
 
+Example in the **index.html** file
+
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+	</head>
+	<body><h1>YEAH SANDWICHES</h1>
+	<img src="http://bit.ly/RhrMEn" />
+		<p>I like eggs.</p>
+		<p>And ham!</p>
+		<p>But mostly sandwiches.</p>
+      <a href="website URL">text</a>
+	</body>
+</html>
+```
+
+
+
+An HTML page is sort of like a house, an HTML page needs a frame:
+
+ In this case, your frame is made of``` <!DOCTYPE>```, ```<html>```, ```<head>``` and  ```<body>``` tags.
+
+
+
+
+
+**Notes taking from** 
+
+www.codecademy.com
 
