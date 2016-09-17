@@ -44,4 +44,4 @@ git clone git@github.com:yinhaoti/xxxx
 
 	/Users/haotianyin/Documents/GitHub/yinhaoti.github.io/_posts/Screen Shot 2016-09-17 at 3.06.42 PM.png
 
-  ![DDDD](./DDDD.jpg)
+  ![DDDD](/img/in-post/post-js-version/javascript-java.jpg)
