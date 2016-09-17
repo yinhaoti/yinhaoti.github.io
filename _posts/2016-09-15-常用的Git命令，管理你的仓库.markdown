@@ -37,5 +37,8 @@ tags:
 > git push
 ```
 
-
+## 从远程库克隆
+```
+git clone git@github.com:yinhaoti/xxxx
+```
 	
