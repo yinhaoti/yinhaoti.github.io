@@ -152,7 +152,7 @@ Example:
 
 
 
-### 2.1 Build Your Own Webpage
+### 2 Build Your Own Webpage
 
 Example in the **index.html** file
 
@@ -182,7 +182,7 @@ An HTML page is sort of like a house, an HTML page needs a frame:
 
 
 
-**Notes taking from** 
 
-www.codecademy.com
+>**Notes taking from** 
+*www.codecademy.com*
 
