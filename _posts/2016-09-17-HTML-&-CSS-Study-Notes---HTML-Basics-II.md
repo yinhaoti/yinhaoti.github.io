@@ -143,7 +143,9 @@ HTML is the skeleton of the webpage, and CSS lets you give the skeleton some ski
 
 It is possible to do some **inline CSS**. This simply means we can do some styling in our HTML file without worrying about a separate CSS file.
 
-Before we dive into fonts, it's important to learn about **making comments**. 
+### **Making comments**.
+
+Before we dive into fonts, it's important to learn about making comments. 
 
 ``` <!-- This is an example of a comment! --> ```
 
