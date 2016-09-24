@@ -35,7 +35,7 @@ you may have noticed that we used <span></span> tags to create a different font 
 
 #### 5 Result
 
-`index.html`
+*index.html*
 
 ```html
 <!DOCTYPE html>
@@ -54,7 +54,7 @@ you may have noticed that we used <span></span> tags to create a different font 
 </html>
 ```
 
-`stylesheet.css`
+*stylesheet.css*
 
 ```css
 img {
