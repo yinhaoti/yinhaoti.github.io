@@ -36,6 +36,13 @@ tags:
   screencapture -h
 
 
+### 1.2 自带字典的完善
+
+可以在~/library/Dictioonary
+目录下导入 apple dictionary 格式的字典来添加
+
+并且可以在speech里面设置发音，esc+option来使单词发音
+
 
 
 
