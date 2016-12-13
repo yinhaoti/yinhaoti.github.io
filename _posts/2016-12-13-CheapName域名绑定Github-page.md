@@ -20,7 +20,7 @@ tags:
 URL Redirect Record 是用来url重定向的
 
 - unmasked会直接跳转到目标网站yinhaoti.github.io
-- masked会直接跳转到目标网站yinhaoti.github.io，但是地址栏显示是`www.yinhaotian.me`
+- masked会直接跳转到目标网站yinhaoti.github.io，但是地址栏显示（伪装）`www.yinhaotian.me`
 
-CNAME Record
+CNAME Record 才是用来绑定github的设置
 
